@@ -1,0 +1,77 @@
+* {
+	box-sizing: border-box;
+
+}
+
+
+
+a {
+	text-decoration: none;
+	color: darkblue;
+}
+
+button {
+	background-color: lightgreen;
+}
+
+
+.decorative-image {
+	max-width: 100%;
+}
+
+.audiowide {
+	font-family: 'Audiowide', cursive;
+}
+
+.roboto,
+a {
+	font-family: 'Roboto', sans-serif;
+}
+
+.blurb {
+	text-align: justify;
+	padding: 15px;
+	margin-top: -15px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	background-color: yellow;
+}
+
+
+.large {
+	font-size: 3em;
+}
+
+.small {
+	margin-top: -30px;
+	color: darkgreen;
+}
+
+.intro {
+	padding: 5px;
+	border: 5px solid black;
+	border-radius: 10px;
+}
+
+h3 {
+	
+	font-size:1em;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.result {
+
+}
+
+.thumbnail {
+
+}
+
+.wikilink {
+
+}
+
+
+
